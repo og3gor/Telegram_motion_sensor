@@ -1,0 +1,1 @@
+# The ESP32 motion sensor project, which reports movement via telegram, is configured via a separate application on x86
